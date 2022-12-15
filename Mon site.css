@@ -1,0 +1,47 @@
+body 
+{background: radial-gradient(rgb(43, 234, 43),rgb(17, 175, 52),rgb(1, 42, 1));}
+header {background: linear-gradient(rgb(6, 91, 21),rgb(23, 167, 23));
+Position: fixed;top:0%;width:100%;bottom: 89%;}
+footer{background: linear-gradient(rgb(5, 68, 17),rgb(18, 187, 18));}
+button{ color: black;
+         padding: 12px 24px;
+         text-align: center;
+         display: inline-block;
+         font-size: 14px;
+         margin: 2px 1px;
+         transition-duration: 0.5s;
+         cursor: pointer;
+         background:linear-gradient(rgb(46, 198, 104),rgb(71, 116, 71)); 
+         color: black; 
+         border: 2px solid #0e4610;
+         border-radius: 20%;}
+
+button:hover { padding: 12px 24px;
+          text-align: center;
+          display: inline-block;
+          font-size: 16px;
+          margin: 2px 1px;
+          transition-duration: 0.5s;
+          cursor: pointer;
+          background:linear-gradient(black,rgb(56, 199, 111)); 
+          color: white; 
+          border: 2px solid #0e4610;
+          border-radius: 20%;}
+h2 {color:rgb(14, 1, 1);}
+h3{background: linear-gradient(rgb(17, 115, 35),rgb(18, 187, 18));border-radius: 17%;margin-left: 15%; margin-right: 15%;}
+img {border-radius: 20%;}
+.sommaire{color:black}
+.liste{color:black}
+.logo{border-radius: 50%;}
+.Sommaire2{color:black;
+justify-content: center;}
+.bare{width: 100%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-top: 0%;
+    background:linear-gradient(to right,black,black,rgb(202, 194, 194));
+    font-size: 25px;
+    margin-top: 2%;
+    margin-bottom: 0%;
+border-radius: 40%;
+margin-right: 5%;}
